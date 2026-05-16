@@ -28,3 +28,6 @@ cd OSINT-Hunter-Pro
 
 # 2. 安装核心依赖包
 pip install ddgs requests
+
+
+仅供授权的安全测试与学术研究使用 (For Educational and Authorized Testing Purposes Only). 本工具仅用于搜集互联网上已经公开暴露的文件。使用者需遵守当地法律法规，严禁用于任何非法的信息窃取或恶意网络攻击。因使用本工具造成的任何直接或间接后果，作者不承担任何责任。
